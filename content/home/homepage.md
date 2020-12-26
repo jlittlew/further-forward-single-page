@@ -34,10 +34,6 @@ advanced:
 
 <img src="https://furtherfwd.com/media/FF-Logo-large.png" alt="Further Forward logo"/>
 
-## Mission
-
-We partner with non-profits, social enterprise and green energy companies to make a better world.
-
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:jesse.littlewood@gmail.com)
