@@ -21,7 +21,7 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: dark-sky-background.jpg  # Name of image in `static/media/`.
+    image: sky-background.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
@@ -32,7 +32,7 @@ advanced:
   css_class: fullscreen
 ---
 
-
+![Further Forward Logo](/static/media/FF Logo and Tagline Color Transparent.png)
 ## Mission
 
 We partner with non-profits, social enterprise and green energy companies to make a better world.
