@@ -32,6 +32,7 @@ advanced:
   css_class: fullscreen
 ---
 
+<img src="furtherfwd.com/media/FF Logo and Tagline Color Transparent.png" alt="Further Forward logo"/>
 
 ## Mission
 
