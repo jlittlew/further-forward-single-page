@@ -21,7 +21,7 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: dark-sky-background.jpg  # Name of image in `static/media/`.
+    image: hello.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
@@ -40,4 +40,3 @@ We partner with non-profits, social enterprise and green energy companies to mak
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:jesse.littlewood@gmail.com)
-{{< icon name="weixin" pack="fab" >}}微信用户名  
