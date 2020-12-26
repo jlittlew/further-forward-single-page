@@ -32,7 +32,7 @@ advanced:
   css_class: fullscreen
 ---
 
-![Further Forward Logo](/static/media/FF Logo and Tagline Color Transparent.png)
+
 ## Mission
 
 We partner with non-profits, social enterprise and green energy companies to make a better world.
